@@ -1,0 +1,2 @@
+# alottofun
+Automate broadway lotteries

@@ -1,0 +1,16 @@
+{
+  "name": "alottofun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alottofun.js",
+  "dependencies": {
+    "puppeteer": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node alottofun.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
